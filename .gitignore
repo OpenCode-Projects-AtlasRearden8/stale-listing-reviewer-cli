@@ -1,8 +1,13 @@
-__pycache__/
-*.pyc
 *.egg-info/
-.pytest_cache/
+*.pyc
 .coverage
-dist/
+.env
+.env.*
+.pytest_cache/
+.venv/
+__pycache__/
 build/
+dist/
+dist/*.tmp
+node_modules/
 worksheet.md
